@@ -1,2 +1,2 @@
 # leetcode
-Решенные задачи на leetcode.com/
+Решенные задачи на leetcode.com
